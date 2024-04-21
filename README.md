@@ -1,4 +1,4 @@
-## 👋 Oie seja bem vindo(a) ao meu perfil!
+## 👋 Olá, seja bem vindo(a) ao meu perfil!
 
  <div>
   <a href="https://github.com/kelianecavalcante">
